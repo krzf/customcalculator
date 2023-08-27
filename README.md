@@ -1,2 +1,2 @@
 # customcalculator
-implementation of calculator program on c with graph. 
+Implementation of calculator program in c with graph. 
